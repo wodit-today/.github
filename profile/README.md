@@ -1,6 +1,6 @@
 <div align=center>
   
-# 🏋️CrossFitLink 
+# 🏋️ Wodit!
 
 | 윤인섭 | 임세연 |
 | :---: | :---: |
